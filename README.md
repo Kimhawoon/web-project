@@ -7,7 +7,7 @@
 
 -독일 문화에 관심을 갖고 있는 사람들을 위한 공간
 
-<img src="./images/04.png" width="450px" height="300px" title="홈페이지" alt="홈페이지 home"></img><br/>
+<img src="./images/04.png" width="450px" height="300px" title="홈페이지" alt="홈페이지 home 사진"></img><br/>
 
 --------------------------------
 ## 주요 코드 설명
